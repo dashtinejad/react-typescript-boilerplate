@@ -1,4 +1,5 @@
-# react-typescript-boilerplate
+# Rreact Typescript Boilerplate
+
 A very simple minimal boilerplate for React with TypeScript.
 
 1. Get the sourcecode:
@@ -22,7 +23,7 @@ A very simple minimal boilerplate for React with TypeScript.
 4. Run `npm run build` command, it will build the bundle for you:
 
     ```
-    $ npm run install
+    $ npm run build
     ```
 
 5. Host the server with `webpack-dev-server`:
